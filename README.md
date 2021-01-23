@@ -20,6 +20,6 @@ Points\
 # Technical info
 Language: C++14\
 Compiler: MSVC2019\
-GUI: QT \
+GUI: QT
 
 
